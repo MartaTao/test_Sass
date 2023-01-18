@@ -1,0 +1,6 @@
+@mixin border-radius($radio){
+    -webkit-border-radius: $radio;
+    -moz-border-radius: $radio;
+    -ms-boder-radius: $radio;
+    border-radius: $radio;
+}
